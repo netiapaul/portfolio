@@ -1,0 +1,191 @@
+/* progress animation */
+
+/* bootstrap */
+#bootstrap {
+    background-color: #543B79 !important;
+    animation: bootstrap 3s ease-in-out;
+    animation-fill-mode:both; 
+    animation: bootstrap 3s ease-in-out;
+    animation-fill-mode:both; 
+}
+
+@keyframes bootstrap {
+  0% { width: 0; }
+  100% { width: 92%; }
+}
+
+@keyframes bootstrap {
+  0% { width: 0; }
+  100% { width: 92%; }
+}
+
+/* javascript */
+#javascript {
+    background-color: #E0A031 !important;
+    animation: javascript 3s ease-in-out;
+    animation-fill-mode:both; 
+    animation: javascript 3s ease-in-out;
+    animation-fill-mode:both; 
+}
+
+@keyframes javascript {
+  0% { width: 0; }
+  100% { width: 79%; }
+}
+
+@keyframes javascript {
+  0% { width: 0; }
+  100% { width: 79%; }
+}
+
+/* html */
+#html5 {
+    background-color: #E35034 !important;
+    animation: html5 3s ease-in-out;
+    animation-fill-mode:both; 
+    animation: html5 3s ease-in-out;
+    animation-fill-mode:both; 
+}
+
+@keyframes html5 {
+  0% { width: 0; }
+  100% { width: 92%; }
+}
+
+@keyframes html5 {
+  0% { width: 0; }
+  100% { width: 92%; }
+}
+
+/* css */
+#css {
+    background-color: #2D6EEA !important;
+    animation: css 3s ease-in-out;
+    animation-fill-mode:both; 
+    animation: css 3s ease-in-out;
+    animation-fill-mode:both; 
+}
+
+@keyframes css {
+  0% { width: 0; }
+  100% { width: 83%; }
+}
+
+@keyframes css {
+  0% { width: 0; }
+  100% { width: 83%; }
+}
+
+/* angular */
+#Angular {
+    background-color: #BE312D !important;
+    animation: Angular 3s ease-in-out;
+    animation-fill-mode:both; 
+    animation: Angular 3s ease-in-out;
+    animation-fill-mode:both; 
+}
+
+@keyframes Angular {
+  0% { width: 0; }
+  100% { width: 78%; }
+}
+
+@keyframes Angular {
+  0% { width: 0; }
+  100% { width: 78%; }
+}
+
+/* node */
+#Node {
+    background-color: #87c012 !important;
+    animation: Node 3s ease-in-out;
+    animation-fill-mode:both; 
+    animation: Node 3s ease-in-out;
+    animation-fill-mode:both; 
+}
+
+@keyframes Node {
+  0% { width: 0; }
+  100% { width: 64%; }
+}
+
+@keyframes Node {
+  0% { width: 0; }
+  100% { width: 64%; }
+}
+
+/* pyhton */
+#python {
+    background-color: #FFC039 !important;
+    animation: python 3s ease-in-out;
+    animation-fill-mode:both; 
+    animation: python 3s ease-in-out;
+    animation-fill-mode:both; 
+}
+
+@keyframes python {
+  0% { width: 0; }
+  100% { width: 74%; }
+}
+
+@keyframes python {
+  0% { width: 0; }
+  100% { width: 74%; }
+}
+
+/* fetch */
+#Fetch {
+    background-color: #E0A031 !important;
+    animation: Fetch 3s ease-in-out;
+    animation-fill-mode:both; 
+    animation: Fetch 3s ease-in-out;
+    animation-fill-mode:both; 
+}
+
+@keyframes Fetch {
+  0% { width: 0; }
+  100% { width: 66%; }
+}
+
+@keyframes Fetch {
+  0% { width: 0; }
+  100% { width: 66%; }
+}
+
+/* git */
+#git {
+    background-color: #E14D34 !important;
+    animation: git 3s ease-in-out;
+    animation-fill-mode:both; 
+    animation: git 3s ease-in-out;
+    animation-fill-mode:both; 
+}
+
+@keyframes git {
+  0% { width: 0; }
+  100% { width: 86%; }
+}
+
+@keyframes git {
+  0% { width: 0; }
+  100% { width: 86%; }
+}
+
+/* jquery */
+#jquery {
+    background-color: #183454 !important;
+    animation: jquery 3s ease-in-out;
+    animation-fill-mode:both; 
+    animation: jquery 3s ease-in-out;
+    animation-fill-mode:both; 
+}
+
+@keyframes jquery {
+  0% { width: 0; }
+  100% { width: 74%; }
+}
+
+@keyframes jquery {
+  0% { width: 0; }
+  100% { width: 74%; }
+}

@@ -1,3 +1,4 @@
+
 /* start of header css */
 [header]{
     position: relative;
@@ -81,9 +82,7 @@ nav{
     transition: all .3s;
 }
 /* end of nav css */
-.row{
-    max-width: 100%;
-}
+
 [prof]{
     position: relative;
    
@@ -185,7 +184,7 @@ header{
 /* end of resume */
 
 /* end of testimonials */
-.slider-carousel .slider-carousel__circle {
+/* .slider-carousel .slider-carousel__circle {
     height: 88px;
     width: 88px;
     border-radius: 50%;
@@ -215,7 +214,7 @@ header{
 }
 .slider-carousel .carousel-indicators {
     bottom: 60px;
-}
+} */
 
 /* end of testimonials */
 .footer {

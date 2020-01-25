@@ -4,7 +4,7 @@ html {
 /* start of header css */
 [header]{
     position: relative;
-    height: 500px;
+    /* height: 500px; */
 }
 
 /* end of header css */
@@ -67,6 +67,10 @@ html {
 }
 /* end of profile css */
 /* start of nav css */
+.navbar{
+    position: fixed;
+    top: 0;
+}
 #navbarNavAltMarkup .navbar-nav{
     font-size: 14px;
     line-height: 20px;
@@ -80,7 +84,6 @@ html {
     opacity: 1;
 }
 nav{
-    
     transition: all .3s;
 }
 /* end of nav css */
@@ -590,4 +593,10 @@ ol, ul {
 }
 
 
-
+/* nav */
+nav .scrolled{
+    background: #ffffff;
+    color: black;
+    position: fixed;
+    /* transition: background 500ms; */
+}
